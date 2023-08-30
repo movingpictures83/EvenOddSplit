@@ -1,0 +1,2 @@
+Prefix plugins/EvenOddSplit/example/
+Plugin EvenOddSplit inputfile output.scaffold_filter.txt outputfile output
